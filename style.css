@@ -35,3 +35,9 @@ body {
   filter: blur(25px);
   transform: translateY(30px) scale(0.9);
 }
+
+h2 {
+  position: relative;
+  color: #fff;
+  font-weight: 500;
+}
